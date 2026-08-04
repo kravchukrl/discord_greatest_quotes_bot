@@ -1,0 +1,12 @@
+{
+    "example_server_name_1": {
+        "server_id": 1234567890965432100,
+        "quotes_id": 1234567890965432101,
+        "threshold": 1
+    },
+    "example_server_name_2": {
+        "server_id": 1234567890965432102,
+        "quotes_id": 1234567890965432103,
+        "threshold": 3
+    }
+}
