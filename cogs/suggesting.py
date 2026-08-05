@@ -26,7 +26,7 @@ class Suggesting(commands.Cog):
                 discord.PollAnswer(self.y),
                 discord.PollAnswer(self.n)
             ],
-            duration = 1
+            duration = 6
         )
         message = await ctx.response.send_message(poll=suggest_poll)
     poll_cache = {}
