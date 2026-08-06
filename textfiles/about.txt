@@ -1,0 +1,25 @@
+Hello, I'm PIN.AS, Pinning Importnant Notices Automated System
+
+My goal in life is helping to save memorable quotes and messages of users in a server, while leaving the choice in the hands of the masses
+
+ヽ(✿ﾟ▽ﾟ)ノ
+
+Main functionality:
+• Whenever the content of a message is deemed to be funny/compromising enough to warrant being remembered, users can react to the message using the pin (📌) emoji. 
+• If the number of pin reactions reaches the pin threshold, the message is sent to the {quotes} channel. For {server} the threshold sands at {number}. 
+• PINAS supports resending of gifs and images, crediting the author.
+
+Avaliable commands:
+
+/faq - inFrequently Asked Questions
+
+/hello - Say hi to our beloved PINAS:3
+
+/help - explaining PINAS functionality and commands
+
+/speak - See if PINAS can offer any words of wisdom
+
+/suggest -  Allows to suggest a quote, if it was spoken irl/in voice chat. After writing down the quote and the author, a vote will occur with a 6 hour limit. Whichever option reaches threshold number of votes, will decide whether the quote is added
+
+
+    

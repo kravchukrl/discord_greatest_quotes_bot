@@ -1,12 +1,12 @@
 
 Q - Why?
 A - Initially, the author of the bot and their friendgroup wanted to commemorate iconic quotes from their groupchat, by pinning them in discord
-    And eventually ran into the limit of 50 pinned messages
-    To alter that, a tradition arose, that whenever a message would get a certain number of pin (📌) reactions, a dedicated member would add those messages to a dedicated channel
-    PINAS is the automation of that role
+And eventually ran into the limit of 50 pinned messages
+To alter that, a tradition arose, that whenever a message would get a certain number of pin (📌) reactions, a dedicated member would add those messages to a dedicated channel
+PINAS is the automation of that role
 
 Q - Is it Open Source?
-A - Yup. https://github.com/kravchukrl/discord_greatest_quotes_bot
+A - [Yup.](https://github.com/kravchukrl/discord_greatest_quotes_bot) 
 
 Q - Why does it say that the channel is restricted?
 A - For privacy reasons, and to avoid duplication, channels can be set as restricted, i.e. to disallow pinning of messages from those channels

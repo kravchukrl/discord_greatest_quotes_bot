@@ -45,7 +45,8 @@ async def on_ready():
 cogs_list = [
     "communicate",
     "reactions",
-    "suggesting"
+    "suggesting",
+    "about"
 ]
 
 for cog in cogs_list:
