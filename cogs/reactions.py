@@ -47,7 +47,7 @@ class Reactions(commands.Cog):
             if len(unique_list) == current_threshold:
                 if not reaction.message.attachments: await channel.send("\"" + reaction.message.content + "\" - " + reaction.message.author.name)
                 else: 
-                    await channel.send(reaction.message.attachments[0].url)
+                    await channel.send(reaction.message.attachments[0])
                     await channel.send(f"Courtesy of {reaction.message.author.name}")
         
         

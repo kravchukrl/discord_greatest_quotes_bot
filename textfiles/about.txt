@@ -17,6 +17,8 @@ Avaliable commands:
 
 /help - explaining PINAS functionality and commands
 
+/reccomend - Ask PINAS for a music reccomendation (based on the authors abysmal music taste)
+
 /speak - See if PINAS can offer any words of wisdom
 
 /suggest -  Allows to suggest a quote, if it was spoken irl/in voice chat. After writing down the quote and the author, a vote will occur with a 6 hour limit. Whichever option reaches threshold number of votes, will decide whether the quote is added
