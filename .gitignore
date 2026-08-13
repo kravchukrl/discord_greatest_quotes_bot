@@ -1,5 +1,5 @@
-git config --global core.excludesfile ~/.gitignoregit config --global core.excludesfile ~/.gitignoregit config --global core.excludesfile ~/.gitignore
-server_configs.json
+#git config --global core.excludesfile ~/.gitignoregit config --global core.excludesfile ~/.gitignoregit config --global core.excludesfile ~/.gitignore
 .env
 .venv
-server_configs.json
+utils/server_configs.json
+__pycache__
