@@ -3,7 +3,6 @@ from discord.ext import commands
 import random
 import os
 import yt_dlp
-import pafy
 
 class Communicate(commands.Cog):
 
